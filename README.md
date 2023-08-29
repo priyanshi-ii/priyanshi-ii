@@ -16,10 +16,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and creat
 
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Databases:** MySQL
-- **Tools:** Visual Studio Code
-
-
-Feel free to customize this README file to match your actual details, projects, and social media profiles. This will help you showcase your skills and interests to potential collaborators and employers visiting your GitHub profile.
+- **Tools:** Visual Studio Codes 
 <!---
 priyanshi-ii/priyanshi-ii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
