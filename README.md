@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm PRIYANSHI
 
-🎓 Computer Science 4th-year Undergraduate Student | 🌐 Web Developer | 🐍 Python Enthusiast
+🎓 Computer Science 4th-year Undergraduate Student | 🐍 Python Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and creating engaging web experiences. I'm currently in my final year of studying Computer Science and have a keen interest in web development and programming with Python.
 
